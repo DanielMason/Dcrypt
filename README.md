@@ -36,8 +36,8 @@ gcc -o bin/Dcrypt-v0.01-win-x86.exe src/mainwindow.c -mms-bitfields -IC:/gtk/inc
 
 ###Compiling on Mac
 
-Go jump off a cliff.
-
+Follow these instructions
+http://www.maclife.com/article/howtos/install_linux_your_mac
 
 
 
