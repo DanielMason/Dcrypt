@@ -4,22 +4,19 @@ Dcrypt v0.01
 Dcrypt - Open-Source, Multi-Platform encryption software.
 
 
-Information
-============
+##Information
 
 Dcrypt is currently built on GTK+3.0 and written in C.
 
+###Compiling on Linux
 
-Compiling on Linux
-==================
 
 Make sure libgtk + gcc is installed and up to date.
 
 'gcc -o bin/Dcrypt-v0.01-lin-x86 src/mainwindow.c'
 
 
-Compiling on Windows
-====================
+###Compiling on Windows
 
 Windows Tutorial here to install GTK+ 
 http://www.gtk.org/download/win32_tutorial.php
