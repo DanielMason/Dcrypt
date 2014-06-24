@@ -1,5 +1,5 @@
-Dcrypt
-======
+Dcrypt v0.01
+============
 
 Dcrypt - Open-Source, Multi-Platform encryption software.
 
